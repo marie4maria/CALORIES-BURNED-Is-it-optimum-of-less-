@@ -40,14 +40,6 @@ Welcome to the ultimate fitness data showdown! 🎉 In this project, we dive dee
 
 💡 *Did you know?* The average person needs to burn **2000+ calories per day** to maintain weight. How are you doing? 🤔🔥
 
-## 🤝 Contributions
-Want to contribute? PRs are welcome! Let’s make fitness analytics more fun and insightful! 🎉
-
-💬 Got an idea? Open an issue! Let’s brainstorm cool fitness hacks. 🧠💡
-
-## 📬 Contact
-📩 Drop a message at [your_email@example.com](mailto:your_email@example.com)
-🔗 Check out my work on [GitHub](https://github.com/yourrepo) 
 
 🚀 Stay fit, crunch numbers, and burn those calories! 💪🔥
 
